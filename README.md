@@ -1,6 +1,6 @@
 # Django-CV-App
 
-<h1>Project Description</h1>
+<h2>Project Description</h1>
 I created this project in relation to a task I had been set on my Software Engineering Bootcamp.
 
 The program uses lists, functions, reading / writing to files, and string handling.
