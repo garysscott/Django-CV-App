@@ -7,11 +7,12 @@ The program uses lists, functions, reading / writing to files, and string handli
 
 Here was the task I was set by HyperionDev:
 
-Compulsory Task
+<h2>Compulsory Task</h2>
+
 Follow these steps:
-● Create a new project called mySite.
-● Start an application called personal. Our end-goal will be to set up an
-“about you” dynamic website.
+
+    ● Create a new project called mySite.
+    ● Start an application called personal. Our end-goal will be to set up an “about you” dynamic website.
 ● Create a template for your app that will display some information
 about you.
 ● Render your template and map a URL to it.
